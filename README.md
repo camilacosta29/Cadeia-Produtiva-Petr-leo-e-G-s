@@ -14,7 +14,7 @@
  
  [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac) 
  
- [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub><br><sub>Product Owner<](https://github.com/caylaneraissa) 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub><br><sub>Product Owner</sub>](https://github.com/caylaneraissa) 
  
  [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario) 
 
