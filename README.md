@@ -17,6 +17,10 @@
  [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub><br><sub>Product Owner</sub>](https://github.com/caylaneraissa) 
  
  [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub><br><sub>Dev</sub>](https://github.com/bryanrosario) 
+ 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila</sub><br><sub>Dev</sub>](https://github.com/caylaneraissa) 
+ 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan</sub><br><sub>Dev</sub>](https://github.com/bryanrosario) 
 
 </p>
 
