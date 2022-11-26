@@ -10,7 +10,7 @@
      <a href="#entregas">Entregas</a> • 
      <a href="#equipe">Equipe</a> 
      
-     # Autores
+ # Autores
  
  <span id="equipe">
 
