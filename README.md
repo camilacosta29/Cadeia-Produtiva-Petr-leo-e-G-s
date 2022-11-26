@@ -26,9 +26,7 @@
  
  [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan</sub><br><sub>Dev</sub>](https://github.com/bryanrosario) 
 
-<span id="equipe">
 
-### :busts_in_silhouette: Equipe:
 Função | Nome | GitHub & LinkedIn
 -------|------|-------------------
 Scrum Master | Ana Elisa Costa | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://github.com/anaelisac)<a href="https://www.linkedin.com/in/ana-elisa-costa-a9a32122" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a>
@@ -107,8 +105,3 @@ Sprint ID | Data | Tag | Status
 
 <a href="#inicio">[Voltar ao início]</a>
 
-<span id="equipe">
-
-
- 
-<a href="#inicio">[Voltar ao início]</a>
