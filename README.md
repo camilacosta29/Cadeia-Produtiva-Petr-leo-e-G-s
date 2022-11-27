@@ -78,10 +78,11 @@ CARACTERIZAÇÃO DA CADEIA PRODUTIVA POR MEIO DA COLETA, TRATAMENTO E APRESENTA�
 
 ### :dart: Entregas
  
+
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
-#1 | 29.08.22 - 18.09.22 | <a href="#">Aqui</a> | 
-#2 | 19.09.22 - 09.10.22 | <a href="#">Aqui</a> | 
+#1 | DATA DA PRIMEIRA ENTREGA |  <p><a href="https://docs.google.com/presentation/d/17rwTee7pse5jXq31HDRbloESXkWf-d6v/edit#slide=id.p5">1ª Sprint</a></p> | 
+#2 | 19.09.22 - 09.10.22 | <a href="#"> Aqui</a> | 
 #3 | 17.10.22 - 06.11.22 | <a href="#">Aqui</a> |  
 #4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |  
 
