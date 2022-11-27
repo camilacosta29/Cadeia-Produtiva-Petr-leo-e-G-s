@@ -83,7 +83,7 @@ Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
 #1 | DATA DA PRIMEIRA ENTREGA |  <p><a href="https://docs.google.com/presentation/d/17rwTee7pse5jXq31HDRbloESXkWf-d6v/edit#slide=id.p1">1ª Sprint</a></p> | 
 #2 | 19.09.22 - 09.10.22 | <p><a href="https://app.powerbi.com/groups/271eac8e-399a-44a7-aba0-bbfaa37581bf/reports/51764eeb-fdcc-40db-8be3-c2dbc07615d9/ReportSectione0b1e95a1e5872cc75ce">2ª Sprint</a></p> | 
-#3 | 17.10.22 - 06.11.22 | <a href="#">Aqui</a> |  
+#3 | 17.10.22 - 06.11.22 | <p><a href="https://app.powerbi.com/groups/me/reports/c723b827-3a2d-479f-98d1-05a2a4e155c0/ReportSection197ab2b31d6d59db4364">3ª Sprint</a></p> |  
 #4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |  
 
 <a href="#inicio">[Voltar ao início]</a>
