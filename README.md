@@ -1,15 +1,7 @@
 <br id="inicio">
 
-<h1 align="center">Análise da cadeia produtiva de petróleo e gás na região metropolitana do Vale Do Paraíba <br><sub>API do 1° Semestre de 2022 do Curso de Logística da FATEC São José dos Campos - Prof. Jessen Vidal </h1></sub>
- <p align="center">
-     <a href="#sobre">Sobre</a> • 
-     <a href="#requisitos">Requisitos</a> •
-     <a href="#status">Status</a> •
-     <a href="#techtools">Ferramentas e Tecnologias</a> •
-     <a href="#estrutura-pastas">Estrutura digital do projeto </a> • 
-     <a href="#entregas">Entregas</a> • 
-     <a href="#equipe">Equipe</a> 
-     
+<h1 align="center">Análise da cadeia produtiva de petróleo e gás na região metropolitana do Vale Do Paraíba 
+ <p align="center">     
 
  # Autores
 
