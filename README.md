@@ -10,23 +10,15 @@
      <a href="#entregas">Entregas</a> • 
      <a href="#equipe">Equipe</a> 
      
+
  # Autores
- 
- <span id="equipe">
 
-### :busts_in_silhouette: Equipe:
+ ### :busts_in_silhouette: Equipe:
+ Scrum Master | Product Owner | Dev | Dev | Dev |
+ -------------|---------------|-----|-----|-----|
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>](https://github.com/anaelisac)</sub><br><a href="https://www.linkedin.com/in/ana-elisa-costa-a9a32122" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub> | [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane R. S. Vieira</sub><br><sub>](https://github.com/caylaneraissa)</sub><br><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub>  | [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario)</sub><br><a href="https://www.linkedin.com/in/bryan-ros%C3%A1rio-a05a6524b" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub>  | [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila Aparecida da Costa</sub>](https://github.com/camilacosta29) | [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan R. Leme Faria</sub>](https://github.com/juanfaria01)### :busts_in_silhouette: Equipe:
   
- [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac) 
  
- [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub><br><sub>Product Owner</sub>](https://github.com/caylaneraissa) 
- 
- [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub><br><sub>Dev</sub>](https://github.com/bryanrosario) 
- 
- [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila</sub><br><sub>Dev</sub>](https://github.com/caylaneraissa) 
- 
- [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan</sub><br><sub>Dev</sub>](https://github.com/bryanrosario) 
-
-
 Função | Nome | GitHub & LinkedIn
 -------|------|-------------------
 Scrum Master | Ana Elisa Costa | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://github.com/anaelisac)<a href="https://www.linkedin.com/in/ana-elisa-costa-a9a32122" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a>
